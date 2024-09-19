@@ -10,3 +10,4 @@ Prospectlist = Prospect List.
 RealEstateDashboard = This is the real estate dashboard that puts all the information together.
 
 Notable Packages are as follows: BeautifulSoup, requests, datetime, csv, pandas, panel, matplotlib, math, bokeh.palettes, bokeh.plotting, bokeh.transform.
+Quick Instructions: When running Jupyter Labs, click View and Open with Panel in New Browser Tab. Once Finished, close the tab, or CTRL+C CMD to close it entirely.
