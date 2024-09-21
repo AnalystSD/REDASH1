@@ -12,4 +12,4 @@ RealEstateDashboard = This is the real estate dashboard that puts all the inform
 Notable Packages are as follows: BeautifulSoup, requests, datetime, csv, pandas, panel, matplotlib, math, bokeh.palettes, bokeh.plotting, bokeh.transform.
 Quick Instructions: 
 To just run it on CMD: panel serve RealEstateDashboard.ipynb
-Then use CTRL + C to close it on CMD.
+Then use CTRL + C to close it on CMD, or click the X button top right and close the browser.
